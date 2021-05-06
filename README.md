@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on Vision projects
 - 🤔 I’m looking for help with migrating TensorFlow 1 API's to TensorFlow 2.
 - 💬 Ask me about Deep learning and Heavy Metal :guitar:
-- 📫 How to reach me: [Personal Webpage](amlohapps.co.in/prajwalsood)
+- 📫 How to reach me: [Personal Webpage](https://www.amlohapps.co.in/prajwalsood)
 - ⚡ Fun fact: ...
 
 <!--
