@@ -1,13 +1,12 @@
 ### Hi there 👋
-
+<!--
 [![Prajwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=prajwalsood&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalsood&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on Computer Vision and Digital Image Processing
-- 🌱 I’m currently learning pattern generation using Deep Networks
+- 🔭 I’m currently working on Data Quality and Applications of DL in data quality
+- 🌱 I’m currently learning new ways to fine tune and merge LLMs
 - 👯 I’m looking to collaborate on Vision projects
-- 🤔 I’m looking for help with migrating TensorFlow 1 API's to TensorFlow 2.
 - 💬 Ask me about Deep learning and Heavy Metal :guitar:
 - 📫 How to reach me: [Personal Webpage](https://www.amlohapps.co.in/prajwalsood)
 - ⚡ Fun fact: ...
