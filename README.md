@@ -1,7 +1,8 @@
 ### Hi there 👋
 
+<!--
 [![Prajwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=prajwalsood&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalsood&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on Data Quality and Applications of DL in data quality
